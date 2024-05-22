@@ -1,0 +1,928 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecommerce Landing Page\n"
+"Language-Team: VW Themes <support@vwthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n"
+"%100<=19) ? 1 : 2);\n"
+"Language: ro\n"
+
+#: 404.php:13
+msgid "404 Not Found"
+msgstr "404 Nu a fost gasit"
+
+#: 404.php:14
+msgid ""
+"Looks like you have taken a wrong turn, Dont worry, it happens to the best "
+"of us."
+msgstr ""
+"Se pare că ați luat o întorsătură greșită, nu vă faceți griji, se întâmplă "
+"celor mai buni dintre noi."
+
+#: 404.php:17 no-results.php:19
+msgid "Go Back"
+msgstr "Întoarce-te"
+
+#: image.php:32 image.php:59 image.php:85 image.php:112 image.php:139
+#: single.php:37 single.php:69 single.php:100 single.php:132 single.php:164
+msgid "Previous page"
+msgstr "Pagina anterioară"
+
+#: image.php:33 image.php:60 image.php:86 image.php:113 image.php:140
+#: single.php:38 single.php:70 single.php:101 single.php:113 single.php:133
+#: single.php:165
+msgid "Next page"
+msgstr "Pagina următoare"
+
+#: image.php:34 image.php:61 image.php:87 image.php:114 image.php:140
+#: single.php:39 single.php:71 single.php:102 single.php:134 single.php:166
+msgid "Page"
+msgstr "Pagină"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un gând despre &ldquo;%s&rdquo;"
+
+#: comments.php:39
+msgid "comments title"
+msgstr "titlul comentariilor"
+
+#: comments.php:70
+msgid "Comments are closed"
+msgstr "Comentariile sunt închise"
+
+#: footer.php:13
+msgid "Footer"
+msgstr "Subsol"
+
+#: footer.php:58
+msgid "By VWThemes"
+msgstr "De VWWThemes"
+
+#: footer.php:68 footer.php:70 footer.php:72
+msgid "Scroll Up"
+msgstr "Derulați în sus"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "nimic gasit"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here"
+msgstr "Ești gata să publici prima ta postare? Începeți aici"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+"Ne pare rău, dar nimic nu se potrivește cu termenii dvs. de căutare. Vă "
+"rugăm să încercați din nou cu câteva cuvinte cheie diferite"
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Nu vă faceți griji și dracu, li se întâmplă celor mai buni dintre noi."
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "Înapoi la pagina de start"
+
+#: search.php:13
+msgid "Results For: %s"
+msgstr "Rezultate pentru: %s"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Caută:"
+
+#: searchform.php:12 searchform.php:14 sidebar.php:12
+msgid "Search"
+msgstr "Căutare"
+
+#: searchform.php:12
+msgid "placeholder"
+msgstr "substituent"
+
+#: searchform.php:14
+msgid "submit button"
+msgstr "buton de trimitere"
+
+#: sidebar.php:16
+msgid "Archives"
+msgstr "Arhive"
+
+#: sidebar.php:22
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:30
+msgid "Categories"
+msgstr "Categorii"
+
+msgid "Logo Size"
+msgstr "Dimensiunea logo-ului"
+
+msgid "Logo Width"
+msgstr "Lățimea logoului"
+
+msgid "Logo Height"
+msgstr "Înălțimea logoului"
+
+msgid "Logo Padding"
+msgstr "Umplutură cu logo"
+
+msgid "Logo Margin"
+msgstr "Marja logo-ului"
+
+msgid "Show / Hide Site Title"
+msgstr "Afișați / Ascundeți titlul site-ului"
+
+#: inc/logo/logo-resizer.php:105
+msgid "Site Title Font Size"
+msgstr "Dimensiunea fontului titlului site-ului"
+
+msgid "Site Title Color"
+msgstr "Culoarea titlului site-ului"
+
+msgid "Show / Hide Site Tagline"
+msgstr "Afișați/Ascundeți sloganul site-ului"
+
+#: inc/logo/logo-resizer.php:142
+msgid "Site Tagline Font Size"
+msgstr "Dimensiunea fontului sloganului site-ului"
+
+msgid "Site Tagline Color"
+msgstr "Culoarea sloganului site-ului"
+
+msgid "Font Color"
+msgstr "Culoare font"
+
+msgid "Font Family"
+msgstr "Familie de fonturi"
+
+msgid "Font Size"
+msgstr "Marimea fontului"
+
+msgid "Font Weight"
+msgstr "Grosimea fontului"
+
+msgid "Font Style"
+msgstr "Stilul fontului"
+
+msgid "Line Height"
+msgstr "Inaltimea liniei"
+
+msgid "Letter Spacing"
+msgstr "Spațiul dintre litere"
+
+msgid "No Fonts weight"
+msgstr "Fără greutate fonturi"
+
+msgid "Thin"
+msgstr "Subţire"
+
+msgid "Light"
+msgstr "Ușoară"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Medium"
+msgstr "Mediu"
+
+msgid "Bold"
+msgstr "Îndrăzneţ"
+
+msgid "Ultra Bold"
+msgstr "foarte îndrăzneață"
+
+msgid "No Fonts Style"
+msgstr "Fără stil de fonturi"
+
+msgid "Italic"
+msgstr "Cursiv"
+
+msgid "Oblique"
+msgstr "Oblic"
+
+msgid "Theme Typography"
+msgstr "Tipografia temei"
+
+msgid "Content Typography"
+msgstr "Tipografie de conținut"
+
+msgid "Headings Typography"
+msgstr "Tipografia titlurilor"
+
+msgid "Global Typography"
+msgstr "Tipografie globală"
+
+msgid "Highlight Color"
+msgstr "Evidențiați Culoare"
+
+msgid "It will change the complete theme color in one click."
+msgstr "Acesta va schimba culoarea completă a temei cu un singur clic."
+
+msgid "Paragraph Color"
+msgstr "Culoarea paragrafului"
+
+msgid "Paragraph Typography"
+msgstr "Tipografia paragrafului"
+
+msgid "Select how you want your paragraphs to appear"
+msgstr "Selectați cum doriți să apară paragrafele dvs"
+
+msgid "Anchor Tag Color"
+msgstr "Culoarea etichetei de ancorare"
+
+msgid "Anchor Tag Typography"
+msgstr "Tipografie Anchor Tag"
+
+msgid "Select how you want your a tag to appear"
+msgstr "Selectați cum doriți să apară eticheta dvs"
+
+msgid "Heading 1 Color"
+msgstr "Titlul 1 Culoare"
+
+msgid "Heading 1"
+msgstr "Titlul 1"
+
+msgid "Select how heading 1 should appear."
+msgstr "Selectați cum ar trebui să apară titlul 1."
+
+msgid "Heading 2 Color"
+msgstr "Rubrica 2 Culoare"
+
+msgid "Heading 2"
+msgstr "Titlul 2"
+
+msgid "Select how heading 2 should appear."
+msgstr "Selectați cum ar trebui să apară titlul 2."
+
+msgid "Heading 3 Color"
+msgstr "Rubrica 3 Culoare"
+
+msgid "Heading 3"
+msgstr "Titlul 3"
+
+msgid "Select how heading 3 should appear."
+msgstr "Selectați cum ar trebui să apară titlul 3."
+
+msgid "Heading 4 color"
+msgstr "Culoare titlul 4"
+
+msgid "Heading 4"
+msgstr "Titlul 4"
+
+msgid "Select how heading 4 should appear."
+msgstr "Selectați cum ar trebui să apară titlul 4."
+
+msgid "Heading 5 Color"
+msgstr "Rubrica 5 Culoare"
+
+msgid "Heading 5"
+msgstr "Titlul 5"
+
+msgid "Select how heading 5 should appear."
+msgstr "Selectați cum ar trebui să apară titlul 5."
+
+msgid "Heading 6 Color"
+msgstr "Rubrica 6 Culoare"
+
+msgid "Heading 6"
+msgstr "Titlul 6"
+
+msgid "Select how heading 6 should appear."
+msgstr "Selectați cum ar trebui să apară titlul 6."
+
+#: template-parts/content-audio.php:72 template-parts/content-audio.php:74
+#: template-parts/content-gallery.php:61 template-parts/content-gallery.php:63
+#: template-parts/content-image.php:59 template-parts/content-image.php:61
+#: template-parts/content-image.php:106 template-parts/content-image.php:108
+#: template-parts/content-image.php:152 template-parts/content-image.php:154
+#: template-parts/content-video.php:72 template-parts/content-video.php:74
+#: template-parts/content.php:59 template-parts/content.php:61
+#: template-parts/content.php:106 template-parts/content.php:108
+#: template-parts/content.php:152 template-parts/content.php:154
+#: template-parts/grid-layout.php:61 template-parts/grid-layout.php:63
+#: inc/customizer.php:1131 inc/customizer.php:1137 inc/customizer.php:1665
+#: inc/customizer.php:1671
+msgid "Read More"
+msgstr "Citeşte mai mult"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: template-parts/header/navigation.php:13
+msgid "Open Button"
+msgstr "Butonul Deschide"
+
+#: template-parts/header/navigation.php:16
+msgid "Top Menu"
+msgstr "Meniul de sus"
+
+#: template-parts/header/navigation.php:26
+msgid "Close Button"
+msgstr "Butonul de închidere"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "Editați | ×"
+
+#: template-parts/content-audio.php:53 template-parts/content-gallery.php:42
+#: template-parts/content-image.php:38 template-parts/content-video.php:53
+#: template-parts/content.php:38 template-parts/single-post-layout.php:30
+msgid "0 Comment"
+msgstr "0 comentariu"
+
+#: template-parts/content-audio.php:53 template-parts/content-gallery.php:42
+#: template-parts/content-image.php:38 template-parts/content-video.php:53
+#: template-parts/content.php:38 template-parts/single-post-layout.php:30
+msgid "% Comment"
+msgstr "% Cometariu"
+
+#: template-parts/single-post-layout.php:66
+msgid "Parent post link"
+msgstr "Link pentru postarea părintelui"
+
+#: template-parts/single-post-layout.php:61
+msgid "Next"
+msgstr "Următorul"
+
+#: template-parts/single-post-layout.php:72
+msgid "Next post"
+msgstr "Postarea următoare"
+
+#: template-parts/single-post-layout.php:74
+msgid "Previous"
+msgstr "Anterior"
+
+#: template-parts/single-post-layout.php:75
+msgid "Previous post"
+msgstr "Postarea anterioară"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Trebuie să fii autentificat pentru a finaliza plata."
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Comanda dumneavoastră"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "meniu principal"
+
+#: functions.php:93
+msgid ""
+"Thank you for choosing Ecommerce Landing Page. Would like to have you on our "
+"Welcome page so that you can reap all the benefits of our Ecommerce Landing "
+"Page."
+msgstr ""
+"Vă mulțumim că ați ales pagina de destinație pentru comerț electronic. Aș "
+"dori să vă avem pe pagina noastră de bun venit, astfel încât să puteți "
+"beneficia de toate beneficiile paginii noastre de destinație pentru comerțul "
+"electronic."
+
+#: functions.php:94
+msgid "GET STARTED"
+msgstr "INCEPE"
+
+#: functions.php:103
+msgid "Blog Sidebar"
+msgstr "Bara laterală a blogului"
+
+#: functions.php:104
+msgid "Appears on blog page sidebar"
+msgstr "Apare pe bara laterală a paginii blogului"
+
+#: functions.php:113
+msgid "page sidebar"
+msgstr "bara laterală a paginii"
+
+#: functions.php:114
+msgid "Appears on page sidebar"
+msgstr "Apare pe bara laterală a paginii"
+
+#: functions.php:123
+msgid "Footer Navigation 1"
+msgstr "Navigare subsol 1"
+
+#: functions.php:124
+msgid "Appears on footer 1"
+msgstr "Apare la subsolul 1"
+
+#: functions.php:133
+msgid "Footer Navigation 2"
+msgstr "Navigare subsol 2"
+
+#: functions.php:134
+msgid "Appears on footer 2"
+msgstr "Apare la subsolul 2"
+
+#: functions.php:143
+msgid "Footer Navigation 3"
+msgstr "Navigare subsol 3"
+
+#: functions.php:144
+msgid "Appears on footer 3"
+msgstr "Apare la subsolul 3"
+
+#: functions.php:153
+msgid "Footer Navigation 4"
+msgstr "Navigare subsol 4"
+
+#: functions.php:154
+msgid "Appears on footer 4"
+msgstr "Apare la subsolul 4"
+
+#: functions.php:137
+msgid "Shop Page Sidebar"
+msgstr "Bara laterală a paginii de magazin"
+
+#: functions.php:163
+msgid "Appears on shop page"
+msgstr "Apare pe pagina magazinului"
+
+#: functions.php:173
+msgid "Single Product Sidebar"
+msgstr "Bara laterală cu un singur produs"
+
+#: functions.php:174
+msgid "Appears on single product page"
+msgstr "Apare pe o singură pagină de produs"
+
+#: inc/customizer.php:39
+msgid "VW Settings"
+msgstr "Setări VW"
+
+#: inc/customizer.php:52
+msgid "Header Background Color"
+msgstr "Culoare de fundal antet"
+
+#: inc/customizer.php:63
+msgid "Header Image Position"
+msgstr "Poziția imaginii antet"
+
+#: inc/customizer.php:80
+msgid "Menus Settings"
+msgstr "Setări meniuri"
+
+#: inc/customizer.php:90
+msgid "Menus Font Size"
+msgstr "Dimensiunea fontului meniurilor"
+
+#: inc/customizer.php:106
+msgid "Menus Font Weight"
+msgstr "Greutatea fontului meniurilor"
+
+#: inc/customizer.php:128
+msgid "Menus Text Transform"
+msgstr "Meniuri Text Transform"
+
+#: inc/customizer.php:145
+msgid "Menu Item Hover Style"
+msgstr "Stilul de trecere a elementului de meniu"
+
+#: inc/customizer.php:157
+msgid "Menu Color"
+msgstr "Meniu Culoare"
+
+#: inc/customizer.php:166
+msgid "Menu Item Hover Color"
+msgstr "Element de meniu Hover Color"
+
+#: inc/customizer.php:184
+msgid "Sub Menus Hover Color"
+msgstr "Submeniuri Hover Color"
+
+#: inc/customizer.php:190
+msgid "Topbar Section"
+msgstr "Secțiunea barei de sus"
+
+#: inc/customizer.php:201
+msgid "Add Myaccount Icon"
+msgstr "Adăugați pictograma Myaccount"
+
+#: inc/customizer.php:214
+msgid "Add Cart Icon"
+msgstr "Adăugați pictograma coș"
+
+#: inc/customizer.php:223
+msgid "Banner Section"
+msgstr "Secțiunea Banner"
+
+#: inc/customizer.php:234
+msgid "Show / Hide Banner"
+msgstr "Afișați/Ascundeți bannerul"
+
+#: inc/customizer.php:244
+msgid "Banner Background Color"
+msgstr "Culoarea de fundal a bannerului"
+
+#: inc/customizer.php:254
+msgid "Banner Title"
+msgstr "Titlul bannerului"
+
+#: inc/customizer.php:296
+msgid "Add Button URL"
+msgstr "Adăugați adresa URL a butonului"
+
+#: inc/customizer.php:308
+msgid "Show / Hide Product"
+msgstr "Afișați/Ascundeți produsul"
+
+#: inc/customizer.php:317
+msgid "Product Title"
+msgstr "Titlul produsului"
+
+#: inc/customizer.php:345
+msgid "Select Popular Product Category"
+msgstr "Selectați Categoria de produse populare"
+
+#: inc/customizer.php:351
+msgid "Latest News And Blog Section"
+msgstr "Ultimele știri și secțiunea blog"
+
+#: inc/customizer.php:361
+msgid "Add Section Heading"
+msgstr "Adăugați titlu de secțiune"
+
+#: inc/customizer.php:374
+msgid "Add Section Text"
+msgstr "Adăugați text de secțiune"
+
+#: inc/customizer.php:398
+msgid "Select Category to display events"
+msgstr "Selectați Categorie pentru a afișa evenimente"
+
+#: inc/customizer.php:408 inc/customizer.php:873 inc/customizer.php:1346
+#: inc/customizer.php:1565
+msgid "Add Author Icon"
+msgstr "Pictograma Adăugați autor"
+
+#: inc/customizer.php:421 inc/customizer.php:1359 inc/customizer.php:1578
+msgid "Show / Hide Author"
+msgstr "Afișați / Ascundeți autorul"
+
+#: inc/customizer.php:431 inc/customizer.php:1369 inc/customizer.php:1588
+msgid "Add Comments Icon"
+msgstr "Pictograma Adăugați comentarii"
+
+#: inc/customizer.php:444 inc/customizer.php:1382 inc/customizer.php:1624
+msgid "Show / Hide Comments"
+msgstr "Afișați / Ascundeți comentariile"
+
+#: inc/customizer.php:450
+msgid "Footer Settings"
+msgstr "Setări subsol"
+
+#: inc/customizer.php:466
+msgid "Show / Hide Footer"
+msgstr "Afișați / Ascundeți subsolul"
+
+#: inc/customizer.php:475
+msgid "Footer Background Color"
+msgstr "Culoare de fundal subsol"
+
+#: inc/customizer.php:484
+msgid "Footer Background Image"
+msgstr "Imagine de fundal de subsol"
+
+#: inc/customizer.php:495
+msgid "Footer Image Position"
+msgstr "Poziția imaginii de subsol"
+
+#: inc/customizer.php:517
+msgid "Footer Background Attatchment"
+msgstr "Atașament de fundal de subsol"
+
+#: inc/customizer.php:531
+msgid "Footer Top Bottom Padding"
+msgstr "Subsol Sus Inferioare Umplutură"
+
+#: inc/customizer.php:547
+msgid "Footer Widget Heading"
+msgstr "Titlul widgetului de subsol"
+
+#: inc/customizer.php:563
+msgid "Footer Widget Content"
+msgstr "Conținutul widgetului de subsol"
+
+#: inc/customizer.php:579
+msgid "Footer Social Icon"
+msgstr "Pictograma socială de subsol"
+
+#: inc/customizer.php:588
+msgid "Copyright Text"
+msgstr "Textul drepturilor de autor"
+
+#: inc/customizer.php:602
+msgid "Show / Hide Copyright"
+msgstr "Afișați / Ascundeți drepturile de autor"
+
+#: inc/customizer.php:612
+msgid "Copyright Alignment"
+msgstr "Alinierea drepturilor de autor"
+
+#: inc/customizer.php:626
+msgid "Copyright Background Color"
+msgstr "Culoare de fundal pentru drepturile de autor"
+
+#: inc/customizer.php:635
+msgid "Copyright Font Size"
+msgstr "Dimensiunea fontului dreptului de autor"
+
+#: inc/customizer.php:650
+msgid "Show / Hide Scroll to Top"
+msgstr "Afișare / Ascundere Derulați până sus"
+
+#: inc/customizer.php:666
+msgid "Scroll To Top"
+msgstr "Derulați în sus"
+
+#: inc/customizer.php:680
+msgid "Add Scroll to Top Icon"
+msgstr "Adăugați pictograma Derulare în partea de sus"
+
+#: inc/customizer.php:692 inc/customizer.php:1902
+msgid "Icon Font Size"
+msgstr "Dimensiunea fontului pictogramei"
+
+#: inc/customizer.php:706
+msgid "Icon Top Bottom Padding"
+msgstr "Pictogramă Sus Inferioare Umplutură"
+
+#: inc/customizer.php:720 inc/customizer.php:1930
+msgid "Icon Width"
+msgstr "Lățimea pictogramei"
+
+#: inc/customizer.php:734 inc/customizer.php:1944
+msgid "Icon Height"
+msgstr "Înălțimea pictogramei"
+
+#: inc/customizer.php:749
+msgid "Icon Border Radius"
+msgstr "Pictogramă Raza chenarului"
+
+#: inc/customizer.php:761
+msgid "Blog Post Settings"
+msgstr "Setări pentru postarea blogului"
+
+#: inc/customizer.php:768
+msgid "Post Settings"
+msgstr "Setări de postare"
+
+#: inc/customizer.php:785
+msgid "Blog Post Layouts"
+msgstr "Aspecte post de blog"
+
+#: inc/customizer.php:799
+msgid "Post Sidebar Layout"
+msgstr "Postați aspectul barei laterale"
+
+#: inc/customizer.php:863 inc/customizer.php:1555
+msgid "Show / Hide Post Date"
+msgstr "Afișează / Ascunde data postării"
+
+#: inc/customizer.php:1045 inc/customizer.php:1445 inc/customizer.php:1633
+msgid "Add Meta Separator"
+msgstr "Adăugați meta separator"
+
+#: inc/customizer.php:1097 inc/customizer.php:1672
+msgid "Add Excerpt Suffix"
+msgstr "Adăugați sufixul de extras"
+
+#: inc/customizer.php:1392 inc/customizer.php:1611
+msgid "Add Time Icon"
+msgstr "Adăugați pictograma oră"
+
+#: inc/customizer.php:1405 inc/customizer.php:1601
+msgid "Show / Hide Time"
+msgstr "Afișați / Ascundeți ora"
+
+#: inc/customizer.php:1436
+msgid "Show / Hide Category"
+msgstr "Afișați/Ascundeți categoria"
+
+#: inc/customizer.php:1457
+msgid "Show / Hide Post Navigation"
+msgstr "Afișați / Ascundeți navigarea postării"
+
+#: inc/customizer.php:1467 inc/customizer.php:1480
+msgid "Post Navigation Text"
+msgstr "Post Navigare Text"
+
+#: inc/customizer.php:1494
+msgid "Add Comment Title"
+msgstr "Adăugați titlu de comentariu"
+
+#: inc/customizer.php:1508
+msgid "Add Comment Button Text"
+msgstr "Adăugați text pentru butonul de comentariu"
+
+#: inc/customizer.php:1521
+msgid "Comment Form Width"
+msgstr "Lățimea formularului de comentarii"
+
+#: inc/customizer.php:1532
+msgid "Grid Layout Settings"
+msgstr "Setări de aspect al grilei"
+
+#: inc/customizer.php:1542
+msgid "Add Post Date Icon"
+msgstr "Adăugați pictograma data postării"
+
+#: inc/customizer.php:1646
+msgid "Display Grid Posts"
+msgstr "Afișează postările din grilă"
+
+#: inc/customizer.php:1659 inc/customizer.php:1849
+msgid "Add Button Text"
+msgstr ""
+
+#: inc/customizer.php:1687
+msgid "Grid Post Content"
+msgstr "Conținut de postare în grilă"
+
+#: inc/customizer.php:1702
+msgid "Grid Featured Image Border Radius"
+msgstr "Grilă Raza de margine a imaginii prezentate"
+
+#: inc/customizer.php:1718
+msgid "Grid Featured Image Box Shadow"
+msgstr "Grid Imagine prezentată Caseta Shadow"
+
+#: inc/customizer.php:1730
+msgid "Other Settings"
+msgstr "Alte setari"
+
+#: inc/customizer.php:1737
+msgid "General Settings"
+msgstr "setari generale"
+
+#: inc/customizer.php:1747
+msgid "Width Layouts"
+msgstr "Aspecte latime"
+
+#: inc/customizer.php:1762
+msgid "Page Sidebar Layout"
+msgstr "Aspect bara laterală a paginii"
+
+#: inc/customizer.php:1779
+msgid "Pre-Loader"
+msgstr "Pre-încărcător"
+
+#: inc/customizer.php:1788
+msgid "Pre-Loader Background Color"
+msgstr "Culoare de fundal pre-încărcare"
+
+#: inc/customizer.php:1797
+msgid "Pre-Loader Border Color"
+msgstr "Culoarea chenarului pre-încărcare"
+
+#: inc/customizer.php:1806
+msgid "Preloader Background Image"
+msgstr "Imagine de fundal Preloader"
+
+#: inc/customizer.php:1812
+msgid "404 Page Settings"
+msgstr "404 Setări pagină"
+
+#: inc/customizer.php:1822, inc/customizer.php:1869
+msgid "Add Title"
+msgstr "Adauga titlu"
+
+#: inc/customizer.php:1836, inc/customizer.php:1833
+msgid "Add Text"
+msgstr "Adaugă text"
+
+#: inc/customizer.php:1859
+msgid "No Results Page Settings"
+msgstr "Fără setări pentru pagina de rezultate"
+
+#: inc/customizer.php:1916
+msgid "Icon Padding"
+msgstr "Umplutură cu pictograme"
+
+#: inc/customizer.php:1955
+msgid "Responsive Media"
+msgstr "Media receptivă"
+
+#: inc/customizer.php:1965
+msgid "Show / Hide Scroll To Top"
+msgstr "Afișați / Ascundeți Derulați în sus"
+
+#: inc/customizer.php:1975
+msgid "Add Open Menu Icon"
+msgstr "Adăugați pictograma meniu deschis"
+
+#: inc/customizer.php:1988
+msgid "Add Close Menu Icon"
+msgstr "Adăugați pictograma Închideți meniul"
+
+#: inc/customizer.php:2000
+msgid "Toggle Button Bg Color"
+msgstr "Comutare Buton Bg Culoare"
+
+#: inc/customizer.php:2006
+msgid "WooCommerce Layout"
+msgstr "Aspect WooCommerce"
+
+#: inc/customizer.php:2022
+msgid "Show / Hide Shop Page Sidebar"
+msgstr "Afișați / Ascundeți bara laterală a paginii de magazin"
+
+#: inc/customizer.php:2032
+msgid "Shop Page Sidebar Layout"
+msgstr "Aspect bara laterală a paginii de magazin"
+
+#: inc/customizer.php:2051
+msgid "Show / Hide Single Product Sidebar"
+msgstr "Afișați / Ascundeți bara laterală pentru un singur produs"
+
+#: inc/customizer.php:2061
+msgid "Single Product Sidebar Layout"
+msgstr "Aspect bară laterală pentru un singur produs"
+
+#: inc/customizer.php:2075
+msgid "Products Padding Top Bottom"
+msgstr "Produse Captuseala Sus Inferioare"
+
+#: inc/customizer.php:2089
+msgid "Products Padding Left Right"
+msgstr "Produse Captuseala Stânga Dreapta"
+
+#: inc/customizer.php:2105
+msgid "Products Box Shadow"
+msgstr "Cutie de produse Shadow"
+
+#: inc/customizer.php:2122
+msgid "Products Border Radius"
+msgstr "Produse Border Radius"
+
+#: inc/customizer.php:2138
+msgid "Products Button Border Radius"
+msgstr "Produse Border Radius"
+
+#: inc/customizer.php:2153
+msgid "Products Button Padding Top Bottom"
+msgstr "Produse Button Captusă Sus Jos"
+
+#: inc/customizer.php:2167
+msgid "Products Button Padding Left Right"
+msgstr "Produse Buton Umplutură Stânga Dreapta"
+
+#: inc/customizer.php:2181
+msgid "Sale Font Size"
+msgstr "Dimensiunea fontului de vânzare"
+
+#: inc/customizer.php:2197
+msgid "Sale Badge Position"
+msgstr "Poziția insigna de vânzare"
+
+#: inc/customizer.php:2210
+msgid "Sale Padding Top Bottom"
+msgstr "Vanzare Captuseala Sus Jos"
+
+#: inc/customizer.php:2224
+msgid "Sale Padding Left Right"
+msgstr "Umplutură de vânzare Stânga Dreapta"
+
+#: inc/customizer.php:2239
+msgid "Sale Border Radius"
+msgstr "Rază de frontieră de vânzare"
+
+#: inc/customizer.php:2256
+msgid "Show / Hide Related Product"
+msgstr "Afișați / Ascundeți produsul similar"
+
+#: inc/customizer.php:2338
+msgid "ECOMMERCE PRO"
+msgstr "ECOMMERCE PRO"
+
+#: inc/customizer.php:2339
+msgid "UPGRADE PRO"
+msgstr "UPGRADE PRO"
+
+#: inc/customizer.php:2346
+msgid "DOCUMENTATION"
+msgstr "DOCUMENTAȚIE"
+
+#: inc/customizer.php:2347
+msgid "DOCS"
+msgstr "DOCUMENTE"

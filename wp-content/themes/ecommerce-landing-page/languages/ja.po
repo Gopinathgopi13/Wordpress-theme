@@ -1,0 +1,926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecommerce Landing Page\n"
+"Language-Team: VW Themes <support@vwthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+#: 404.php:13
+msgid "404 Not Found"
+msgstr "404お探しのページが見つかりませんでした"
+
+#: 404.php:14
+msgid ""
+"Looks like you have taken a wrong turn, Dont worry, it happens to the best "
+"of us."
+msgstr ""
+"道を間違えたようですが、心配しないでください。それは私たちにとって最善のこと"
+"です。"
+
+#: 404.php:17 no-results.php:19
+msgid "Go Back"
+msgstr "戻る"
+
+#: image.php:32 image.php:59 image.php:85 image.php:112 image.php:139
+#: single.php:37 single.php:69 single.php:100 single.php:132 single.php:164
+msgid "Previous page"
+msgstr "前のページ"
+
+#: image.php:33 image.php:60 image.php:86 image.php:113 image.php:140
+#: single.php:38 single.php:70 single.php:101 single.php:113 single.php:133
+#: single.php:165
+msgid "Next page"
+msgstr "次のページ"
+
+#: image.php:34 image.php:61 image.php:87 image.php:114 image.php:140
+#: single.php:39 single.php:71 single.php:102 single.php:134 single.php:166
+msgid "Page"
+msgstr "ページ"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "「%s」についての 1 つの意見"
+
+#: comments.php:39
+msgid "comments title"
+msgstr "コメントタイトル"
+
+#: comments.php:70
+msgid "Comments are closed"
+msgstr "コメントは締め切りました"
+
+#: footer.php:13
+msgid "Footer"
+msgstr "フッター"
+
+#: footer.php:58
+msgid "By VWThemes"
+msgstr "作成者: VWテーマ"
+
+#: footer.php:68 footer.php:70 footer.php:72
+msgid "Scroll Up"
+msgstr "スクロールアップする"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "何も見つかりません"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here"
+msgstr "最初の投稿を公開する準備はできましたか?ここから始めましょう"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+"申し訳ありませんが、検索キーワードに一致するものはありませんでした。別のキー"
+"ワードでもう一度お試しください"
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "心配しないでください。それは私たちにとって最善のことです。"
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "ホームページに戻ります"
+
+#: search.php:13
+msgid "Results For: %s"
+msgstr "結果: %s"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "検索する："
+
+#: searchform.php:12 searchform.php:14 sidebar.php:12
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:12
+msgid "placeholder"
+msgstr "プレースホルダー"
+
+#: searchform.php:14
+msgid "submit button"
+msgstr "送信ボタン"
+
+#: sidebar.php:16
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: sidebar.php:22
+msgid "Meta"
+msgstr "メタ"
+
+#: sidebar.php:30
+msgid "Categories"
+msgstr "カテゴリー"
+
+msgid "Logo Size"
+msgstr "ロゴのサイズ"
+
+msgid "Logo Width"
+msgstr "ロゴの幅"
+
+msgid "Logo Height"
+msgstr "ロゴの高さ"
+
+msgid "Logo Padding"
+msgstr "ロゴのパディング"
+
+msgid "Logo Margin"
+msgstr "ロゴの余白"
+
+msgid "Show / Hide Site Title"
+msgstr "サイトタイトルの表示/非表示"
+
+#: inc/logo/logo-resizer.php:105
+msgid "Site Title Font Size"
+msgstr "サイトタイトルのフォントサイズ"
+
+msgid "Site Title Color"
+msgstr "サイトタイトルの色"
+
+msgid "Show / Hide Site Tagline"
+msgstr "サイトのキャッチフレーズを表示/非表示にする"
+
+#: inc/logo/logo-resizer.php:142
+msgid "Site Tagline Font Size"
+msgstr "サイトキャッチフレーズのフォントサイズ"
+
+msgid "Site Tagline Color"
+msgstr "サイトのキャッチフレーズの色"
+
+msgid "Font Color"
+msgstr "フォントの色"
+
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+msgid "Font Weight"
+msgstr "フォントの太さ"
+
+msgid "Font Style"
+msgstr "フォントスタイル"
+
+msgid "Line Height"
+msgstr "行の高さ"
+
+msgid "Letter Spacing"
+msgstr "文字間隔"
+
+msgid "No Fonts weight"
+msgstr "フォントウェイトなし"
+
+msgid "Thin"
+msgstr "薄い"
+
+msgid "Light"
+msgstr "ライト"
+
+msgid "Normal"
+msgstr "普通"
+
+msgid "Medium"
+msgstr "中くらい"
+
+msgid "Bold"
+msgstr "大胆な"
+
+msgid "Ultra Bold"
+msgstr "ウルトラボールド"
+
+msgid "No Fonts Style"
+msgstr "フォントスタイルなし"
+
+msgid "Italic"
+msgstr "イタリック"
+
+msgid "Oblique"
+msgstr "斜め"
+
+msgid "Theme Typography"
+msgstr "テーマのタイポグラフィー"
+
+msgid "Content Typography"
+msgstr "コンテンツのタイポグラフィー"
+
+msgid "Headings Typography"
+msgstr "見出しのタイポグラフィ"
+
+msgid "Global Typography"
+msgstr "グローバルタイポグラフィー"
+
+msgid "Highlight Color"
+msgstr "ハイライトカラー"
+
+msgid "It will change the complete theme color in one click."
+msgstr "ワンクリックで完全なテーマの色が変更されます。"
+
+msgid "Paragraph Color"
+msgstr "段落の色"
+
+msgid "Paragraph Typography"
+msgstr "段落のタイポグラフィ"
+
+msgid "Select how you want your paragraphs to appear"
+msgstr "段落の表示方法を選択します"
+
+msgid "Anchor Tag Color"
+msgstr "アンカータグの色"
+
+msgid "Anchor Tag Typography"
+msgstr "アンカータグのタイポグラフィー"
+
+msgid "Select how you want your a tag to appear"
+msgstr "タグをどのように表示するかを選択します"
+
+msgid "Heading 1 Color"
+msgstr "見出し1の色"
+
+msgid "Heading 1"
+msgstr "見出し1"
+
+msgid "Select how heading 1 should appear."
+msgstr "見出し 1 の表示方法を選択します。"
+
+msgid "Heading 2 Color"
+msgstr "見出し 2 の色"
+
+msgid "Heading 2"
+msgstr "見出し2"
+
+msgid "Select how heading 2 should appear."
+msgstr "見出し 2 の表示方法を選択します。"
+
+msgid "Heading 3 Color"
+msgstr "見出し 3 の色"
+
+msgid "Heading 3"
+msgstr "前3の色"
+
+msgid "Select how heading 3 should appear."
+msgstr "見出し 3 の表示方法を選択します。"
+
+msgid "Heading 4 color"
+msgstr "見出し4の色"
+
+msgid "Heading 4"
+msgstr "見出し 4"
+
+msgid "Select how heading 4 should appear."
+msgstr "見出し 4 の表示方法を選択します。"
+
+msgid "Heading 5 Color"
+msgstr "見出し 5 の色"
+
+msgid "Heading 5"
+msgstr "見出し 5"
+
+msgid "Select how heading 5 should appear."
+msgstr "見出し 5 の表示方法を選択します。"
+
+msgid "Heading 6 Color"
+msgstr "見出し6の色"
+
+msgid "Heading 6"
+msgstr "見出し6"
+
+msgid "Select how heading 6 should appear."
+msgstr "見出し 6 の表示方法を選択します。"
+
+#: template-parts/content-audio.php:72 template-parts/content-audio.php:74
+#: template-parts/content-gallery.php:61 template-parts/content-gallery.php:63
+#: template-parts/content-image.php:59 template-parts/content-image.php:61
+#: template-parts/content-image.php:106 template-parts/content-image.php:108
+#: template-parts/content-image.php:152 template-parts/content-image.php:154
+#: template-parts/content-video.php:72 template-parts/content-video.php:74
+#: template-parts/content.php:59 template-parts/content.php:61
+#: template-parts/content.php:106 template-parts/content.php:108
+#: template-parts/content.php:152 template-parts/content.php:154
+#: template-parts/grid-layout.php:61 template-parts/grid-layout.php:63
+#: inc/customizer.php:1131 inc/customizer.php:1137 inc/customizer.php:1665
+#: inc/customizer.php:1671
+msgid "Read More"
+msgstr "Read More"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "コンテンツにスキップ"
+
+#: template-parts/header/navigation.php:13
+msgid "Open Button"
+msgstr "開くボタン"
+
+#: template-parts/header/navigation.php:16
+msgid "Top Menu"
+msgstr "トップメニュー"
+
+#: template-parts/header/navigation.php:26
+msgid "Close Button"
+msgstr "閉じるボタン"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "編集"
+
+#: template-parts/content-audio.php:53 template-parts/content-gallery.php:42
+#: template-parts/content-image.php:38 template-parts/content-video.php:53
+#: template-parts/content.php:38 template-parts/single-post-layout.php:30
+msgid "0 Comment"
+msgstr "0コメント"
+
+#: template-parts/content-audio.php:53 template-parts/content-gallery.php:42
+#: template-parts/content-image.php:38 template-parts/content-video.php:53
+#: template-parts/content.php:38 template-parts/single-post-layout.php:30
+msgid "% Comment"
+msgstr "％ コメント"
+
+#: template-parts/single-post-layout.php:66
+msgid "Parent post link"
+msgstr "親投稿リンク"
+
+#: template-parts/single-post-layout.php:61
+msgid "Next"
+msgstr "次"
+
+#: template-parts/single-post-layout.php:72
+msgid "Next post"
+msgstr "次の投稿"
+
+#: template-parts/single-post-layout.php:74
+msgid "Previous"
+msgstr "前の"
+
+#: template-parts/single-post-layout.php:75
+msgid "Previous post"
+msgstr "前の投稿"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "チェックアウトするにはログインする必要があります。"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "ご注文"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: functions.php:93
+msgid ""
+"Thank you for choosing Ecommerce Landing Page. Would like to have you on our "
+"Welcome page so that you can reap all the benefits of our Ecommerce Landing "
+"Page."
+msgstr ""
+"e コマース ランディング ページをお選びいただきありがとうございます。当社の e "
+"コマース ランディング ページのメリットをすべて享受できるように、ようこそペー"
+"ジにアクセスしていただきたいと考えています。"
+
+#: functions.php:94
+msgid "GET STARTED"
+msgstr "始めましょう"
+
+#: functions.php:103
+msgid "Blog Sidebar"
+msgstr "ブログのサイドバー"
+
+#: functions.php:104
+msgid "Appears on blog page sidebar"
+msgstr "ブログページのサイドバーに表示されます"
+
+#: functions.php:113
+msgid "page sidebar"
+msgstr "ページサイドバー"
+
+#: functions.php:114
+msgid "Appears on page sidebar"
+msgstr "ページのサイドバーに表示されます"
+
+#: functions.php:123
+msgid "Footer Navigation 1"
+msgstr "フッターナビゲーション 1"
+
+#: functions.php:124
+msgid "Appears on footer 1"
+msgstr "フッター 1 に表示されます"
+
+#: functions.php:133
+msgid "Footer Navigation 2"
+msgstr "フッターナビゲーション 2"
+
+#: functions.php:134
+msgid "Appears on footer 2"
+msgstr "フッター 2 に表示されます"
+
+#: functions.php:143
+msgid "Footer Navigation 3"
+msgstr "フッターナビゲーション 3"
+
+#: functions.php:144
+msgid "Appears on footer 3"
+msgstr "フッター 3 に表示されます"
+
+#: functions.php:153
+msgid "Footer Navigation 4"
+msgstr "フッターナビゲーション 4"
+
+#: functions.php:154
+msgid "Appears on footer 4"
+msgstr "フッター 4 に表示されます"
+
+#: functions.php:137
+msgid "Shop Page Sidebar"
+msgstr "ショップページのサイドバー"
+
+#: functions.php:163
+msgid "Appears on shop page"
+msgstr "ショップページに掲載されます"
+
+#: functions.php:173
+msgid "Single Product Sidebar"
+msgstr "単一製品サイドバー"
+
+#: functions.php:174
+msgid "Appears on single product page"
+msgstr "単一の製品ページに表示されます"
+
+#: inc/customizer.php:39
+msgid "VW Settings"
+msgstr "フォルクスワーゲンの設定"
+
+#: inc/customizer.php:52
+msgid "Header Background Color"
+msgstr "ヘッダーの背景色"
+
+#: inc/customizer.php:63
+msgid "Header Image Position"
+msgstr "ヘッダー画像の位置"
+
+#: inc/customizer.php:80
+msgid "Menus Settings"
+msgstr "メニュー設定"
+
+#: inc/customizer.php:90
+msgid "Menus Font Size"
+msgstr "メニューのフォントサイズ"
+
+#: inc/customizer.php:106
+msgid "Menus Font Weight"
+msgstr "メニューのフォントの太さ"
+
+#: inc/customizer.php:128
+msgid "Menus Text Transform"
+msgstr "メニュー テキスト変換"
+
+#: inc/customizer.php:145
+msgid "Menu Item Hover Style"
+msgstr "メニュー項目のホバー スタイル"
+
+#: inc/customizer.php:157
+msgid "Menu Color"
+msgstr "メニューの色"
+
+#: inc/customizer.php:166
+msgid "Menu Item Hover Color"
+msgstr "メニュー項目のホバー色"
+
+#: inc/customizer.php:184
+msgid "Sub Menus Hover Color"
+msgstr "サブメニューのホバー色"
+
+#: inc/customizer.php:190
+msgid "Topbar Section"
+msgstr "トップバーセクション"
+
+#: inc/customizer.php:201
+msgid "Add Myaccount Icon"
+msgstr "マイアカウントアイコンを追加"
+
+#: inc/customizer.php:214
+msgid "Add Cart Icon"
+msgstr "カートアイコンを追加"
+
+#: inc/customizer.php:223
+msgid "Banner Section"
+msgstr "バナーセクション"
+
+#: inc/customizer.php:234
+msgid "Show / Hide Banner"
+msgstr "バナーの表示/非表示"
+
+#: inc/customizer.php:244
+msgid "Banner Background Color"
+msgstr "バナーの背景色"
+
+#: inc/customizer.php:254
+msgid "Banner Title"
+msgstr "バナータイトル"
+
+#: inc/customizer.php:296
+msgid "Add Button URL"
+msgstr "ボタンの URL を追加"
+
+#: inc/customizer.php:308
+msgid "Show / Hide Product"
+msgstr "製品の表示/非表示"
+
+#: inc/customizer.php:317
+msgid "Product Title"
+msgstr "製品タイトル"
+
+#: inc/customizer.php:345
+msgid "Select Popular Product Category"
+msgstr "人気の製品カテゴリを選択してください"
+
+#: inc/customizer.php:351
+msgid "Latest News And Blog Section"
+msgstr "最新ニュースとブログセクション"
+
+#: inc/customizer.php:361
+msgid "Add Section Heading"
+msgstr "セクション見出しを追加"
+
+#: inc/customizer.php:374
+msgid "Add Section Text"
+msgstr "セクションテキストを追加"
+
+#: inc/customizer.php:398
+msgid "Select Category to display events"
+msgstr "カテゴリを選択してイベントを表示します"
+
+#: inc/customizer.php:408 inc/customizer.php:873 inc/customizer.php:1346
+#: inc/customizer.php:1565
+msgid "Add Author Icon"
+msgstr "著者の追加アイコン"
+
+#: inc/customizer.php:421 inc/customizer.php:1359 inc/customizer.php:1578
+msgid "Show / Hide Author"
+msgstr "著者の表示 / 非表示"
+
+#: inc/customizer.php:431 inc/customizer.php:1369 inc/customizer.php:1588
+msgid "Add Comments Icon"
+msgstr "コメントの追加アイコン"
+
+#: inc/customizer.php:444 inc/customizer.php:1382 inc/customizer.php:1624
+msgid "Show / Hide Comments"
+msgstr "コメントの表示/非表示"
+
+#: inc/customizer.php:450
+msgid "Footer Settings"
+msgstr "フッター設定"
+
+#: inc/customizer.php:466
+msgid "Show / Hide Footer"
+msgstr "フッターの表示/非表示"
+
+#: inc/customizer.php:475
+msgid "Footer Background Color"
+msgstr "フッターの背景色"
+
+#: inc/customizer.php:484
+msgid "Footer Background Image"
+msgstr "フッターの背景画像"
+
+#: inc/customizer.php:495
+msgid "Footer Image Position"
+msgstr "フッター画像の位置"
+
+#: inc/customizer.php:517
+msgid "Footer Background Attatchment"
+msgstr "フッター背景の添付ファイル"
+
+#: inc/customizer.php:531
+msgid "Footer Top Bottom Padding"
+msgstr "フッターの上下のパディング"
+
+#: inc/customizer.php:547
+msgid "Footer Widget Heading"
+msgstr "フッターウィジェットの見出し"
+
+#: inc/customizer.php:563
+msgid "Footer Widget Content"
+msgstr "フッターウィジェットのコンテンツ"
+
+#: inc/customizer.php:579
+msgid "Footer Social Icon"
+msgstr "フッターソーシャルアイコン"
+
+#: inc/customizer.php:588
+msgid "Copyright Text"
+msgstr "著作権テキスト"
+
+#: inc/customizer.php:602
+msgid "Show / Hide Copyright"
+msgstr "著作権を表示/非表示にする"
+
+#: inc/customizer.php:612
+msgid "Copyright Alignment"
+msgstr "著作権の調整"
+
+#: inc/customizer.php:626
+msgid "Copyright Background Color"
+msgstr "著作権の背景色"
+
+#: inc/customizer.php:635
+msgid "Copyright Font Size"
+msgstr "著作権のフォント サイズ"
+
+#: inc/customizer.php:650
+msgid "Show / Hide Scroll to Top"
+msgstr "表示 / 非表示 トップへスクロール"
+
+#: inc/customizer.php:666
+msgid "Scroll To Top"
+msgstr "トップにスクロールします"
+
+#: inc/customizer.php:680
+msgid "Add Scroll to Top Icon"
+msgstr "「先頭へスクロール」アイコンを追加"
+
+#: inc/customizer.php:692 inc/customizer.php:1902
+msgid "Icon Font Size"
+msgstr "アイコンのフォントサイズ"
+
+#: inc/customizer.php:706
+msgid "Icon Top Bottom Padding"
+msgstr "アイコンの上下のパディング"
+
+#: inc/customizer.php:720 inc/customizer.php:1930
+msgid "Icon Width"
+msgstr "アイコンの幅"
+
+#: inc/customizer.php:734 inc/customizer.php:1944
+msgid "Icon Height"
+msgstr "アイコンの高さ"
+
+#: inc/customizer.php:749
+msgid "Icon Border Radius"
+msgstr "アイコンの境界線の半径"
+
+#: inc/customizer.php:761
+msgid "Blog Post Settings"
+msgstr "ブログ投稿の設定"
+
+#: inc/customizer.php:768
+msgid "Post Settings"
+msgstr "投稿設定"
+
+#: inc/customizer.php:785
+msgid "Blog Post Layouts"
+msgstr "ブログ投稿のレイアウト"
+
+#: inc/customizer.php:799
+msgid "Post Sidebar Layout"
+msgstr "ポストサイドバーのレイアウト"
+
+#: inc/customizer.php:863 inc/customizer.php:1555
+msgid "Show / Hide Post Date"
+msgstr "投稿日の表示/非表示"
+
+#: inc/customizer.php:1045 inc/customizer.php:1445 inc/customizer.php:1633
+msgid "Add Meta Separator"
+msgstr "メタセパレータを追加"
+
+#: inc/customizer.php:1097 inc/customizer.php:1672
+msgid "Add Excerpt Suffix"
+msgstr "抜粋の接尾辞を追加"
+
+#: inc/customizer.php:1392 inc/customizer.php:1611
+msgid "Add Time Icon"
+msgstr "時間の追加アイコン"
+
+#: inc/customizer.php:1405 inc/customizer.php:1601
+msgid "Show / Hide Time"
+msgstr "時間の表示/非表示"
+
+#: inc/customizer.php:1436
+msgid "Show / Hide Category"
+msgstr "カテゴリの表示/非表示"
+
+#: inc/customizer.php:1457
+msgid "Show / Hide Post Navigation"
+msgstr "投稿ナビゲーションの表示/非表示"
+
+#: inc/customizer.php:1467 inc/customizer.php:1480
+msgid "Post Navigation Text"
+msgstr "ポストナビゲーションテキスト"
+
+#: inc/customizer.php:1494
+msgid "Add Comment Title"
+msgstr "コメントのタイトルを追加"
+
+#: inc/customizer.php:1508
+msgid "Add Comment Button Text"
+msgstr "コメントボタンのテキストを追加"
+
+#: inc/customizer.php:1521
+msgid "Comment Form Width"
+msgstr "コメントフォームの幅"
+
+#: inc/customizer.php:1532
+msgid "Grid Layout Settings"
+msgstr "グリッドレイアウト設定"
+
+#: inc/customizer.php:1542
+msgid "Add Post Date Icon"
+msgstr "投稿日アイコンを追加"
+
+#: inc/customizer.php:1646
+msgid "Display Grid Posts"
+msgstr "グリッドポストを表示する"
+
+#: inc/customizer.php:1659 inc/customizer.php:1849
+msgid "Add Button Text"
+msgstr "ボタンテキストを追加"
+
+#: inc/customizer.php:1687
+msgid "Grid Post Content"
+msgstr "グリッド投稿コンテンツ"
+
+#: inc/customizer.php:1702
+msgid "Grid Featured Image Border Radius"
+msgstr "グリッドのアイキャッチ画像の境界線の半径"
+
+#: inc/customizer.php:1718
+msgid "Grid Featured Image Box Shadow"
+msgstr "グリッドのアイキャッチ画像ボックスのシャドウ"
+
+#: inc/customizer.php:1730
+msgid "Other Settings"
+msgstr "その他の設定"
+
+#: inc/customizer.php:1737
+msgid "General Settings"
+msgstr "一般設定"
+
+#: inc/customizer.php:1747
+msgid "Width Layouts"
+msgstr "幅のレイアウト"
+
+#: inc/customizer.php:1762
+msgid "Page Sidebar Layout"
+msgstr "ページサイドバーのレイアウト"
+
+#: inc/customizer.php:1779
+msgid "Pre-Loader"
+msgstr "プリローダー"
+
+#: inc/customizer.php:1788
+msgid "Pre-Loader Background Color"
+msgstr "プリローダーの背景色"
+
+#: inc/customizer.php:1797
+msgid "Pre-Loader Border Color"
+msgstr "プリローダーの境界線の色"
+
+#: inc/customizer.php:1806
+msgid "Preloader Background Image"
+msgstr "プリローダーの背景画像"
+
+#: inc/customizer.php:1812
+msgid "404 Page Settings"
+msgstr "404ページ設定"
+
+#: inc/customizer.php:1822, inc/customizer.php:1869
+msgid "Add Title"
+msgstr "表題を加える"
+
+#: inc/customizer.php:1836, inc/customizer.php:1833
+msgid "Add Text"
+msgstr "テキストを追加"
+
+#: inc/customizer.php:1859
+msgid "No Results Page Settings"
+msgstr "「結果なし」ページの設定"
+
+#: inc/customizer.php:1916
+msgid "Icon Padding"
+msgstr "アイコンのパディング"
+
+#: inc/customizer.php:1955
+msgid "Responsive Media"
+msgstr "レスポンシブメディア"
+
+#: inc/customizer.php:1965
+msgid "Show / Hide Scroll To Top"
+msgstr "表示 / 非表示 トップへスクロール"
+
+#: inc/customizer.php:1975
+msgid "Add Open Menu Icon"
+msgstr "開くメニューアイコンを追加"
+
+#: inc/customizer.php:1988
+msgid "Add Close Menu Icon"
+msgstr "「メニューを閉じる」アイコンを追加"
+
+#: inc/customizer.php:2000
+msgid "Toggle Button Bg Color"
+msgstr "トグルボタンの背景色"
+
+#: inc/customizer.php:2006
+msgid "WooCommerce Layout"
+msgstr "WooCommerce レイアウト"
+
+#: inc/customizer.php:2022
+msgid "Show / Hide Shop Page Sidebar"
+msgstr "ショップページのサイドバーを表示/非表示にする"
+
+#: inc/customizer.php:2032
+msgid "Shop Page Sidebar Layout"
+msgstr "ショップページのサイドバーのレイアウト"
+
+#: inc/customizer.php:2051
+msgid "Show / Hide Single Product Sidebar"
+msgstr "単一製品サイドバーの表示/非表示"
+
+#: inc/customizer.php:2061
+msgid "Single Product Sidebar Layout"
+msgstr "単一製品のサイドバーのレイアウト"
+
+#: inc/customizer.php:2075
+msgid "Products Padding Top Bottom"
+msgstr "製品 パディング 上部 下部"
+
+#: inc/customizer.php:2089
+msgid "Products Padding Left Right"
+msgstr "製品 パディング 左 右"
+
+#: inc/customizer.php:2105
+msgid "Products Box Shadow"
+msgstr "製品ボックスの影"
+
+#: inc/customizer.php:2122
+msgid "Products Border Radius"
+msgstr "製品境界半径"
+
+#: inc/customizer.php:2138
+msgid "Products Button Border Radius"
+msgstr "製品ボタンの境界線の半径"
+
+#: inc/customizer.php:2153
+msgid "Products Button Padding Top Bottom"
+msgstr "製品 ボタンパッド 上面 下面"
+
+#: inc/customizer.php:2167
+msgid "Products Button Padding Left Right"
+msgstr "製品 ボタン パディング 左 右"
+
+#: inc/customizer.php:2181
+msgid "Sale Font Size"
+msgstr "セールのフォントサイズ"
+
+#: inc/customizer.php:2197
+msgid "Sale Badge Position"
+msgstr "セールバッジの位置"
+
+#: inc/customizer.php:2210
+msgid "Sale Padding Top Bottom"
+msgstr "セールパディング上部下部"
+
+#: inc/customizer.php:2224
+msgid "Sale Padding Left Right"
+msgstr "セールパディング左右"
+
+#: inc/customizer.php:2239
+msgid "Sale Border Radius"
+msgstr "セール境界半径"
+
+#: inc/customizer.php:2256
+msgid "Show / Hide Related Product"
+msgstr "関連商品の表示/非表示"
+
+#: inc/customizer.php:2338
+msgid "ECOMMERCE PRO"
+msgstr "Eコマースプロ"
+
+#: inc/customizer.php:2339
+msgid "UPGRADE PRO"
+msgstr "アップグレードプロ"
+
+#: inc/customizer.php:2346
+msgid "DOCUMENTATION"
+msgstr "ドキュメンテーション"
+
+#: inc/customizer.php:2347
+msgid "DOCS"
+msgstr "ドキュメント"

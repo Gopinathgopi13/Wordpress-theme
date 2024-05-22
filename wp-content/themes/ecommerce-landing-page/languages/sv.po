@@ -1,0 +1,926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecommerce Landing Page\n"
+"Language-Team: VW Themes <support@vwthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv\n"
+
+#: 404.php:13
+msgid "404 Not Found"
+msgstr "404 Ej Hittad"
+
+#: 404.php:14
+msgid ""
+"Looks like you have taken a wrong turn, Dont worry, it happens to the best "
+"of us."
+msgstr ""
+"Det verkar som att du har tagit en fel sväng, oroa dig inte, det händer de "
+"bästa av oss."
+
+#: 404.php:17 no-results.php:19
+msgid "Go Back"
+msgstr "Gå tillbaka"
+
+#: image.php:32 image.php:59 image.php:85 image.php:112 image.php:139
+#: single.php:37 single.php:69 single.php:100 single.php:132 single.php:164
+msgid "Previous page"
+msgstr "Föregående sida"
+
+#: image.php:33 image.php:60 image.php:86 image.php:113 image.php:140
+#: single.php:38 single.php:70 single.php:101 single.php:113 single.php:133
+#: single.php:165
+msgid "Next page"
+msgstr "Nästa sida"
+
+#: image.php:34 image.php:61 image.php:87 image.php:114 image.php:140
+#: single.php:39 single.php:71 single.php:102 single.php:134 single.php:166
+msgid "Page"
+msgstr "Sida"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "En tanke om &ldquo;%s&rdquo;"
+
+#: comments.php:39
+msgid "comments title"
+msgstr "kommentarer rubrik"
+
+#: comments.php:70
+msgid "Comments are closed"
+msgstr "Kommentarer är stängda"
+
+#: footer.php:13
+msgid "Footer"
+msgstr "Sidfot"
+
+#: footer.php:58
+msgid "By VWThemes"
+msgstr "Av VWThemes"
+
+#: footer.php:68 footer.php:70 footer.php:72
+msgid "Scroll Up"
+msgstr "Skrolla upp"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "inget hittat"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here"
+msgstr "Är du redo att publicera ditt första inlägg? Kom igång här"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+"Tyvärr, men ingenting matchade dina söktermer. Försök igen med några andra "
+"sökord"
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Oroa dig inte & hellip det händer de bästa av oss."
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "Tillbaka till startsidan"
+
+#: search.php:13
+msgid "Results For: %s"
+msgstr "Resultat för: %s"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Söka efter:"
+
+#: searchform.php:12 searchform.php:14 sidebar.php:12
+msgid "Search"
+msgstr "Sök"
+
+#: searchform.php:12
+msgid "placeholder"
+msgstr "Platshållare"
+
+#: searchform.php:14
+msgid "submit button"
+msgstr "skickaknapp"
+
+#: sidebar.php:16
+msgid "Archives"
+msgstr "clickasnap"
+
+#: sidebar.php:22
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:30
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Logo Size"
+msgstr "Logotypstorlek"
+
+msgid "Logo Width"
+msgstr "Logotyps bredd"
+
+msgid "Logo Height"
+msgstr "Logotyp Höjd"
+
+msgid "Logo Padding"
+msgstr "Logotyp stoppning"
+
+msgid "Logo Margin"
+msgstr "Logotyp Marginal"
+
+msgid "Show / Hide Site Title"
+msgstr "Visa/dölj webbplatsens titel"
+
+#: inc/logo/logo-resizer.php:105
+msgid "Site Title Font Size"
+msgstr "Webbplatstitel Teckenstorlek"
+
+msgid "Site Title Color"
+msgstr "Sidans titelfärg"
+
+msgid "Show / Hide Site Tagline"
+msgstr "Visa/dölj webbplatsöversikt"
+
+#: inc/logo/logo-resizer.php:142
+msgid "Site Tagline Font Size"
+msgstr "Site Tagline Teckenstorlek"
+
+msgid "Site Tagline Color"
+msgstr "Färg på webbplatsens slagord"
+
+msgid "Font Color"
+msgstr "Fontfärg"
+
+msgid "Font Family"
+msgstr "Typsnittsfamilj"
+
+msgid "Font Size"
+msgstr "Textstorlek"
+
+msgid "Font Weight"
+msgstr "Teckensnittsvikt"
+
+msgid "Font Style"
+msgstr "Typsnitt"
+
+msgid "Line Height"
+msgstr "Radavstånd"
+
+msgid "Letter Spacing"
+msgstr "Teckenavstånd"
+
+msgid "No Fonts weight"
+msgstr "Inga teckensnitts vikt"
+
+msgid "Thin"
+msgstr "Tunn"
+
+msgid "Light"
+msgstr "Ljus"
+
+msgid "Normal"
+msgstr "Vanligt"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Bold"
+msgstr ""
+
+msgid "Ultra Bold"
+msgstr "Ultra Bold"
+
+msgid "No Fonts Style"
+msgstr "Ingen typsnittsstil"
+
+msgid "Italic"
+msgstr "Kursiv"
+
+msgid "Oblique"
+msgstr "Sned"
+
+msgid "Theme Typography"
+msgstr "Tema typografi"
+
+msgid "Content Typography"
+msgstr "Innehållstypografi"
+
+msgid "Headings Typography"
+msgstr "Rubriker Typografi"
+
+msgid "Global Typography"
+msgstr "Global typografi"
+
+msgid "Highlight Color"
+msgstr "Markeringsfärg"
+
+msgid "It will change the complete theme color in one click."
+msgstr "Det kommer att ändra hela temafärgen med ett klick."
+
+msgid "Paragraph Color"
+msgstr "Styckefärg"
+
+msgid "Paragraph Typography"
+msgstr "Paragraf typografi"
+
+msgid "Select how you want your paragraphs to appear"
+msgstr "Välj hur du vill att dina stycken ska se ut"
+
+msgid "Anchor Tag Color"
+msgstr "Anchor Tag Färg"
+
+msgid "Anchor Tag Typography"
+msgstr "Anchor Tag Typografi"
+
+msgid "Select how you want your a tag to appear"
+msgstr "Välj hur du vill att din tagg ska visas"
+
+msgid "Heading 1 Color"
+msgstr "Rubrik 1 Färg"
+
+msgid "Heading 1"
+msgstr "Rubrik 1"
+
+msgid "Select how heading 1 should appear."
+msgstr "Välj hur rubrik 1 ska se ut."
+
+msgid "Heading 2 Color"
+msgstr "Rubrik 2 Färg"
+
+msgid "Heading 2"
+msgstr "Rubrik 2"
+
+msgid "Select how heading 2 should appear."
+msgstr "Välj hur rubrik 2 ska se ut."
+
+msgid "Heading 3 Color"
+msgstr "Rubrik 3 Färg"
+
+msgid "Heading 3"
+msgstr "Rubrik 3"
+
+msgid "Select how heading 3 should appear."
+msgstr "Välj hur rubrik 3 ska se ut."
+
+msgid "Heading 4 color"
+msgstr "Rubrik 4 färg"
+
+msgid "Heading 4"
+msgstr "Rubrik 4"
+
+msgid "Select how heading 4 should appear."
+msgstr "Välj hur rubrik 4 ska se ut."
+
+msgid "Heading 5 Color"
+msgstr "Rubrik 5 Färg"
+
+msgid "Heading 5"
+msgstr "Rubrik 5"
+
+msgid "Select how heading 5 should appear."
+msgstr "Välj hur rubrik 5 ska se ut."
+
+msgid "Heading 6 Color"
+msgstr "Rubrik 6 Färg"
+
+msgid "Heading 6"
+msgstr "Rubrik 6"
+
+msgid "Select how heading 6 should appear."
+msgstr "Välj hur rubrik 6 ska se ut."
+
+#: template-parts/content-audio.php:72 template-parts/content-audio.php:74
+#: template-parts/content-gallery.php:61 template-parts/content-gallery.php:63
+#: template-parts/content-image.php:59 template-parts/content-image.php:61
+#: template-parts/content-image.php:106 template-parts/content-image.php:108
+#: template-parts/content-image.php:152 template-parts/content-image.php:154
+#: template-parts/content-video.php:72 template-parts/content-video.php:74
+#: template-parts/content.php:59 template-parts/content.php:61
+#: template-parts/content.php:106 template-parts/content.php:108
+#: template-parts/content.php:152 template-parts/content.php:154
+#: template-parts/grid-layout.php:61 template-parts/grid-layout.php:63
+#: inc/customizer.php:1131 inc/customizer.php:1137 inc/customizer.php:1665
+#: inc/customizer.php:1671
+msgid "Read More"
+msgstr "Read More"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Hoppa till innehållet"
+
+#: template-parts/header/navigation.php:13
+msgid "Open Button"
+msgstr "Öppna knappen"
+
+#: template-parts/header/navigation.php:16
+msgid "Top Menu"
+msgstr "Topp meny"
+
+#: template-parts/header/navigation.php:26
+msgid "Close Button"
+msgstr "Stäng-knapp"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "Redigera"
+
+#: template-parts/content-audio.php:53 template-parts/content-gallery.php:42
+#: template-parts/content-image.php:38 template-parts/content-video.php:53
+#: template-parts/content.php:38 template-parts/single-post-layout.php:30
+msgid "0 Comment"
+msgstr "0 kommentar"
+
+#: template-parts/content-audio.php:53 template-parts/content-gallery.php:42
+#: template-parts/content-image.php:38 template-parts/content-video.php:53
+#: template-parts/content.php:38 template-parts/single-post-layout.php:30
+msgid "% Comment"
+msgstr "% Kommentar"
+
+#: template-parts/single-post-layout.php:66
+msgid "Parent post link"
+msgstr "Förälders inläggslänk"
+
+#: template-parts/single-post-layout.php:61
+msgid "Next"
+msgstr "Nästa"
+
+#: template-parts/single-post-layout.php:72
+msgid "Next post"
+msgstr "Nästa inlägg"
+
+#: template-parts/single-post-layout.php:74
+msgid "Previous"
+msgstr "Tidigare"
+
+#: template-parts/single-post-layout.php:75
+msgid "Previous post"
+msgstr "Tidigare inlägg"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Du måste vara inloggad för att gå till kassan."
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Du beställer"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: functions.php:93
+msgid ""
+"Thank you for choosing Ecommerce Landing Page. Would like to have you on our "
+"Welcome page so that you can reap all the benefits of our Ecommerce Landing "
+"Page."
+msgstr ""
+"Tack för att du valde målsida för e-handel. Skulle vilja ha dig på vår "
+"välkomstsida så att du kan dra nytta av alla fördelar med vår landningssida "
+"för e-handel."
+
+#: functions.php:94
+msgid "GET STARTED"
+msgstr "KOMMA IGÅNG"
+
+#: functions.php:103
+msgid "Blog Sidebar"
+msgstr "Blogg sidofält"
+
+#: functions.php:104
+msgid "Appears on blog page sidebar"
+msgstr "Visas på bloggsidans sidofält"
+
+#: functions.php:113
+msgid "page sidebar"
+msgstr "sidofältet"
+
+#: functions.php:114
+msgid "Appears on page sidebar"
+msgstr "Visas i sidofältet"
+
+#: functions.php:123
+msgid "Footer Navigation 1"
+msgstr "Sidfotsnavigering 1"
+
+#: functions.php:124
+msgid "Appears on footer 1"
+msgstr "Visas på sidfot 1"
+
+#: functions.php:133
+msgid "Footer Navigation 2"
+msgstr "Sidfotsnavigering 2"
+
+#: functions.php:134
+msgid "Appears on footer 2"
+msgstr "Visas på sidfot 2"
+
+#: functions.php:143
+msgid "Footer Navigation 3"
+msgstr "Sidfotsnavigering 3"
+
+#: functions.php:144
+msgid "Appears on footer 3"
+msgstr "Visas på sidfot 3"
+
+#: functions.php:153
+msgid "Footer Navigation 4"
+msgstr "Sidfotsnavigering 4"
+
+#: functions.php:154
+msgid "Appears on footer 4"
+msgstr "Visas på sidfot 4"
+
+#: functions.php:137
+msgid "Shop Page Sidebar"
+msgstr "Sidofält för butikssidor"
+
+#: functions.php:163
+msgid "Appears on shop page"
+msgstr "Visas på butikssidan"
+
+#: functions.php:173
+msgid "Single Product Sidebar"
+msgstr "Sidofält för en enda produkt"
+
+#: functions.php:174
+msgid "Appears on single product page"
+msgstr "Visas på en produktsida"
+
+#: inc/customizer.php:39
+msgid "VW Settings"
+msgstr "VW inställningar"
+
+#: inc/customizer.php:52
+msgid "Header Background Color"
+msgstr "Rubrik Bakgrundsfärg"
+
+#: inc/customizer.php:63
+msgid "Header Image Position"
+msgstr "Header Image Position"
+
+#: inc/customizer.php:80
+msgid "Menus Settings"
+msgstr "Menyer Inställningar"
+
+#: inc/customizer.php:90
+msgid "Menus Font Size"
+msgstr "Menyer Teckenstorlek"
+
+#: inc/customizer.php:106
+msgid "Menus Font Weight"
+msgstr "Menyer Teckensnittsvikt"
+
+#: inc/customizer.php:128
+msgid "Menus Text Transform"
+msgstr "Menyer Text Transform"
+
+#: inc/customizer.php:145
+msgid "Menu Item Hover Style"
+msgstr "Menyalternativ Hover Style"
+
+#: inc/customizer.php:157
+msgid "Menu Color"
+msgstr "Menyfärg"
+
+#: inc/customizer.php:166
+msgid "Menu Item Hover Color"
+msgstr "Menyalternativ Hover Color"
+
+#: inc/customizer.php:184
+msgid "Sub Menus Hover Color"
+msgstr "Undermenyer Hover Color"
+
+#: inc/customizer.php:190
+msgid "Topbar Section"
+msgstr "Topbar sektion"
+
+#: inc/customizer.php:201
+msgid "Add Myaccount Icon"
+msgstr "Lägg till mitt konto-ikon"
+
+#: inc/customizer.php:214
+msgid "Add Cart Icon"
+msgstr "Lägg till kundvagn Ikon"
+
+#: inc/customizer.php:223
+msgid "Banner Section"
+msgstr "Bannersektion"
+
+#: inc/customizer.php:234
+msgid "Show / Hide Banner"
+msgstr "Visa/dölj banner"
+
+#: inc/customizer.php:244
+msgid "Banner Background Color"
+msgstr "Banner bakgrundsfärg"
+
+#: inc/customizer.php:254
+msgid "Banner Title"
+msgstr "Bannertitel"
+
+#: inc/customizer.php:296
+msgid "Add Button URL"
+msgstr "Lägg till knapp URL"
+
+#: inc/customizer.php:308
+msgid "Show / Hide Product"
+msgstr "Visa/dölj produkt"
+
+#: inc/customizer.php:317
+msgid "Product Title"
+msgstr "Produkttitel"
+
+#: inc/customizer.php:345
+msgid "Select Popular Product Category"
+msgstr "Välj Populär produktkategori"
+
+#: inc/customizer.php:351
+msgid "Latest News And Blog Section"
+msgstr "Senaste nyheterna och bloggsektionen"
+
+#: inc/customizer.php:361
+msgid "Add Section Heading"
+msgstr "Lägg till avsnittsrubrik"
+
+#: inc/customizer.php:374
+msgid "Add Section Text"
+msgstr "Lägg till avsnittstext"
+
+#: inc/customizer.php:398
+msgid "Select Category to display events"
+msgstr "Välj Kategori för att visa händelser"
+
+#: inc/customizer.php:408 inc/customizer.php:873 inc/customizer.php:1346
+#: inc/customizer.php:1565
+msgid "Add Author Icon"
+msgstr "Lägg till författareikon"
+
+#: inc/customizer.php:421 inc/customizer.php:1359 inc/customizer.php:1578
+msgid "Show / Hide Author"
+msgstr "Visa / Dölj författare"
+
+#: inc/customizer.php:431 inc/customizer.php:1369 inc/customizer.php:1588
+msgid "Add Comments Icon"
+msgstr "Lägg till kommentarer Ikon"
+
+#: inc/customizer.php:444 inc/customizer.php:1382 inc/customizer.php:1624
+msgid "Show / Hide Comments"
+msgstr "Visa/dölj kommentarer"
+
+#: inc/customizer.php:450
+msgid "Footer Settings"
+msgstr "Sidfotsinställningar"
+
+#: inc/customizer.php:466
+msgid "Show / Hide Footer"
+msgstr "Visa/dölj sidfot"
+
+#: inc/customizer.php:475
+msgid "Footer Background Color"
+msgstr "Sidfot bakgrundsfärg"
+
+#: inc/customizer.php:484
+msgid "Footer Background Image"
+msgstr "Sidfot Bakgrundsbild"
+
+#: inc/customizer.php:495
+msgid "Footer Image Position"
+msgstr "Sidfot Bild Position"
+
+#: inc/customizer.php:517
+msgid "Footer Background Attatchment"
+msgstr "Sidfot Bakgrund Bilaga"
+
+#: inc/customizer.php:531
+msgid "Footer Top Bottom Padding"
+msgstr "Sidfot Topp Nedre stoppning"
+
+#: inc/customizer.php:547
+msgid "Footer Widget Heading"
+msgstr "Sidfot Widget Rubrik"
+
+#: inc/customizer.php:563
+msgid "Footer Widget Content"
+msgstr "Sidfotswidgetinnehåll"
+
+#: inc/customizer.php:579
+msgid "Footer Social Icon"
+msgstr "Sidfot Social Ikon"
+
+#: inc/customizer.php:588
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: inc/customizer.php:602
+msgid "Show / Hide Copyright"
+msgstr "Visa/dölj upphovsrätt"
+
+#: inc/customizer.php:612
+msgid "Copyright Alignment"
+msgstr "Upphovsrättsanpassning"
+
+#: inc/customizer.php:626
+msgid "Copyright Background Color"
+msgstr "Copyright bakgrundsfärg"
+
+#: inc/customizer.php:635
+msgid "Copyright Font Size"
+msgstr "Copyright Teckenstorlek"
+
+#: inc/customizer.php:650
+msgid "Show / Hide Scroll to Top"
+msgstr "Copyright Teckenstorlek"
+
+#: inc/customizer.php:666
+msgid "Scroll To Top"
+msgstr "Scrolla till toppen"
+
+#: inc/customizer.php:680
+msgid "Add Scroll to Top Icon"
+msgstr "Lägg till Scroll to Top-ikonen"
+
+#: inc/customizer.php:692 inc/customizer.php:1902
+msgid "Icon Font Size"
+msgstr "Ikon Teckenstorlek"
+
+#: inc/customizer.php:706
+msgid "Icon Top Bottom Padding"
+msgstr "Ikon Topp Nedre stoppning"
+
+#: inc/customizer.php:720 inc/customizer.php:1930
+msgid "Icon Width"
+msgstr "Ikonens bredd"
+
+#: inc/customizer.php:734 inc/customizer.php:1944
+msgid "Icon Height"
+msgstr "Ikon Höjd"
+
+#: inc/customizer.php:749
+msgid "Icon Border Radius"
+msgstr "Ikon kantradie"
+
+#: inc/customizer.php:761
+msgid "Blog Post Settings"
+msgstr "Inställningar för blogginlägg"
+
+#: inc/customizer.php:768
+msgid "Post Settings"
+msgstr "Inläggsinställningar"
+
+#: inc/customizer.php:785
+msgid "Blog Post Layouts"
+msgstr "Layouter för blogginlägg"
+
+#: inc/customizer.php:799
+msgid "Post Sidebar Layout"
+msgstr "Inläggs sidofältslayout"
+
+#: inc/customizer.php:863 inc/customizer.php:1555
+msgid "Show / Hide Post Date"
+msgstr "Visa/dölj inläggsdatum"
+
+#: inc/customizer.php:1045 inc/customizer.php:1445 inc/customizer.php:1633
+msgid "Add Meta Separator"
+msgstr "Lägg till Meta Separator"
+
+#: inc/customizer.php:1097 inc/customizer.php:1672
+msgid "Add Excerpt Suffix"
+msgstr "Lägg till utdragssuffix"
+
+#: inc/customizer.php:1392 inc/customizer.php:1611
+msgid "Add Time Icon"
+msgstr "Lägg till tidsikon"
+
+#: inc/customizer.php:1405 inc/customizer.php:1601
+msgid "Show / Hide Time"
+msgstr "Visa / dölj tid"
+
+#: inc/customizer.php:1436
+msgid "Show / Hide Category"
+msgstr "Visa / Dölj kategori"
+
+#: inc/customizer.php:1457
+msgid "Show / Hide Post Navigation"
+msgstr "Visa/dölj inläggsnavigering"
+
+#: inc/customizer.php:1467 inc/customizer.php:1480
+msgid "Post Navigation Text"
+msgstr "Postnavigeringstext"
+
+#: inc/customizer.php:1494
+msgid "Add Comment Title"
+msgstr "Lägg till kommentarstitel"
+
+#: inc/customizer.php:1508
+msgid "Add Comment Button Text"
+msgstr "Lägg till kommentar knapptext"
+
+#: inc/customizer.php:1521
+msgid "Comment Form Width"
+msgstr "Kommentarsformulärets bredd"
+
+#: inc/customizer.php:1532
+msgid "Grid Layout Settings"
+msgstr "Inställningar för rutnätslayout"
+
+#: inc/customizer.php:1542
+msgid "Add Post Date Icon"
+msgstr "Lägg till ikon för inläggsdatum"
+
+#: inc/customizer.php:1646
+msgid "Display Grid Posts"
+msgstr "Visa rutnätsinlägg"
+
+#: inc/customizer.php:1659 inc/customizer.php:1849
+msgid "Add Button Text"
+msgstr "Lägg till knapptext"
+
+#: inc/customizer.php:1687
+msgid "Grid Post Content"
+msgstr "Grid Post Innehåll"
+
+#: inc/customizer.php:1702
+msgid "Grid Featured Image Border Radius"
+msgstr "Rutnät Utvald bild kantradie"
+
+#: inc/customizer.php:1718
+msgid "Grid Featured Image Box Shadow"
+msgstr "Grid Featured Image Box Shadow"
+
+#: inc/customizer.php:1730
+msgid "Other Settings"
+msgstr "Andra inställningar"
+
+#: inc/customizer.php:1737
+msgid "General Settings"
+msgstr "Allmänna Inställningar"
+
+#: inc/customizer.php:1747
+msgid "Width Layouts"
+msgstr "Breddlayouter"
+
+#: inc/customizer.php:1762
+msgid "Page Sidebar Layout"
+msgstr "Sidpanelens layout"
+
+#: inc/customizer.php:1779
+msgid "Pre-Loader"
+msgstr "Förlastare"
+
+#: inc/customizer.php:1788
+msgid "Pre-Loader Background Color"
+msgstr "Pre-Loader Bakgrundsfärg"
+
+#: inc/customizer.php:1797
+msgid "Pre-Loader Border Color"
+msgstr "Pre-Loader kantfärg"
+
+#: inc/customizer.php:1806
+msgid "Preloader Background Image"
+msgstr "Förladdare bakgrundsbild"
+
+#: inc/customizer.php:1812
+msgid "404 Page Settings"
+msgstr "404 Sidinställningar"
+
+#: inc/customizer.php:1822, inc/customizer.php:1869
+msgid "Add Title"
+msgstr "Lägg till titel"
+
+#: inc/customizer.php:1836, inc/customizer.php:1833
+msgid "Add Text"
+msgstr "Lägg till text"
+
+#: inc/customizer.php:1859
+msgid "No Results Page Settings"
+msgstr "Inga inställningar för resultatsidan"
+
+#: inc/customizer.php:1916
+msgid "Icon Padding"
+msgstr "Ikon Utfyllnad"
+
+#: inc/customizer.php:1955
+msgid "Responsive Media"
+msgstr "Responsiv media"
+
+#: inc/customizer.php:1965
+msgid "Show / Hide Scroll To Top"
+msgstr "Visa / Dölj Scrolla till toppen"
+
+#: inc/customizer.php:1975
+msgid "Add Open Menu Icon"
+msgstr "Lägg till ikon för öppna meny"
+
+#: inc/customizer.php:1988
+msgid "Add Close Menu Icon"
+msgstr "Lägg till stäng menyikon"
+
+#: inc/customizer.php:2000
+msgid "Toggle Button Bg Color"
+msgstr "Växlingsknapp Bg Färg"
+
+#: inc/customizer.php:2006
+msgid "WooCommerce Layout"
+msgstr "WooCommerce-layout"
+
+#: inc/customizer.php:2022
+msgid "Show / Hide Shop Page Sidebar"
+msgstr "Visa/dölj butikssidans sidofält"
+
+#: inc/customizer.php:2032
+msgid "Shop Page Sidebar Layout"
+msgstr "Sidofältslayout för butikssidan"
+
+#: inc/customizer.php:2051
+msgid "Show / Hide Single Product Sidebar"
+msgstr "Visa/dölj sidofält för enstaka produkter"
+
+#: inc/customizer.php:2061
+msgid "Single Product Sidebar Layout"
+msgstr "Sidofältslayout för en produkt"
+
+#: inc/customizer.php:2075
+msgid "Products Padding Top Bottom"
+msgstr "Produkter Vaddering Topp Botten"
+
+#: inc/customizer.php:2089
+msgid "Products Padding Left Right"
+msgstr "Produkter Stoppning Vänster Höger"
+
+#: inc/customizer.php:2105
+msgid "Products Box Shadow"
+msgstr "Produkter Box Shadow"
+
+#: inc/customizer.php:2122
+msgid "Products Border Radius"
+msgstr "Produkter Border Radie"
+
+#: inc/customizer.php:2138
+msgid "Products Button Border Radius"
+msgstr "Produkter Button Border Radie"
+
+#: inc/customizer.php:2153
+msgid "Products Button Padding Top Bottom"
+msgstr "Produkter Knappstoppning Top Botten"
+
+#: inc/customizer.php:2167
+msgid "Products Button Padding Left Right"
+msgstr "Produkter Knapp Vaddering Vänster Höger"
+
+#: inc/customizer.php:2181
+msgid "Sale Font Size"
+msgstr "Rea teckensnittsstorlek"
+
+#: inc/customizer.php:2197
+msgid "Sale Badge Position"
+msgstr "Sale Badge Position"
+
+#: inc/customizer.php:2210
+msgid "Sale Padding Top Bottom"
+msgstr "Rea Vaddering Topp Botten"
+
+#: inc/customizer.php:2224
+msgid "Sale Padding Left Right"
+msgstr "Rea Stoppning Vänster Höger"
+
+#: inc/customizer.php:2239
+msgid "Sale Border Radius"
+msgstr "Försäljningsgränsradie"
+
+#: inc/customizer.php:2256
+msgid "Show / Hide Related Product"
+msgstr "Visa/dölj relaterad produkt"
+
+#: inc/customizer.php:2338
+msgid "ECOMMERCE PRO"
+msgstr "ECOMMERCE PRO"
+
+#: inc/customizer.php:2339
+msgid "UPGRADE PRO"
+msgstr "UPPGRADERA PRO"
+
+#: inc/customizer.php:2346
+msgid "DOCUMENTATION"
+msgstr "UPPGRADERA PRO"
+
+#: inc/customizer.php:2347
+msgid "DOCS"
+msgstr "DOCS"

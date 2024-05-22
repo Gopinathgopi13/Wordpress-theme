@@ -1,0 +1,132 @@
+/*
+Theme Name: Supermarket Ecommerce Store
+Theme URI: https://www.buywpthemes.net/products/free-ecommerce-wordpress-theme
+Author: Peccular
+Author URI: https://www.buywpthemes.net/
+Description: Supermarket Ecommerce Store WordPress theme offers everything you require to open your online store. The ambience, navigation, visuals - everything has been designed and placed in keeping with the demand of this niche. Once you install the theme, you can invest all your time to focus on growing your business. Supermarket Ecommerce Store WordPress theme is easy to maintain and you require no coding skills to make changes. Once you register and install the theme your business is live. The woo-commerce plug-in compatibility provides you a safe payment gateway; now you can do online financial transactions in complete safety. Supermarket Ecommerce Store WordPress theme, as the name suggests has been designed keeping the supermarket stores in mind that also perform functions like buying and selling online. The theme is visible in its original form and dimension across all browsers. Plus, no matter which device your visitor uses to reach your site, be it tablet, smart phone or laptop, Supermarket Ecommerce Store WordPress theme will be visible without any distortion of colors, images or alignment.  Considering all these advantages many entrepreneurs looking to have their first online presence or additional can easily rely on this WordPress theme to enjoy a long uninterrupted innings. Demo - https://www.wpthemesdemo.com/supermarket-ecommerce-store/
+Version: 0.1.7
+Tested up to: 5.8
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: supermarket-ecommerce-store
+Slug: supermarket-ecommerce-store
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.waves {
+    position: absolute;
+    width: 100%;
+    height: 31vh;
+    margin-bottom: -7px;
+    min-height: 100px;
+    max-height: 150px;
+    bottom: 0;
+}
+.mr-0{margin: 0;}
+.footer-area {
+    background: #40424C;
+    position: relative;
+    display: block;
+    overflow: initial;
+    z-index: 1;
+    padding:2em 0 0em 0;
+    background-repeat: no-repeat;
+}
+
+
+.slider-area .sliderinn-img{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0% !important;
+    right: 0;
+    background: #000;
+    opacity: 0.2;
+    border-radius: 4px;
+/*    background-size: 100%;*/
+}
+/*.FirstimageBox .sh-bx img{
+    -webkit-mask-image: url(images/sliedrShapebanner2.png);
+    mask-image: url(images/sliedrShapebanner2.png);
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100%;
+    mask-size: 100%;
+}*/
+
+/* Animation */
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+   transform: translate3d(-90px,0,0);
+  }
+  100% { 
+    transform: translate3d(85px,0,0);
+  }
+}
+/*Shrinking for mobile*/
+@media (max-width: 768px) {
+  .waves {
+    height:40px;
+    min-height:40px;
+  }
+}
+.recentcomments a {
+    display: inline-block !important;
+    padding-left: 18px !important;
+    margin: 0 !important;
+}
+
+.slider-img-overlay {
+    position: absolute;
+    left: 0;
+    right: 52.5%;
+    top: 0;
+    bottom: 0;
+    background: #161415;
+    opacity: 1;
+    clip-path: polygon(0 0, 67% 0, 100% 100%, 0% 100%);
+}
+.slider-img-overlay-outer {
+    position: absolute;
+    left: 0;
+    right: 50%;
+    top: 0;
+    bottom: 0;
+    background: #fff;
+    opacity: 1;
+    clip-path: polygon(0 0, 68% 0, 100% 100%, 0% 100%);
+}
+@media (max-width: 991px) {
+.slider-img-overlay-outer {
+    right: 35%;
+}
+.slider-img-overlay {
+    right: 38.5%;
+}
+
+}

@@ -1,0 +1,19 @@
+# WordPress Core
+/wp-admin/
+/wp-includes/
+
+# Logs and database backups
+*.log
+*.sql
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+wp-config.php
+
+# Other
+node_modules/
+vendor/
